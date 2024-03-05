@@ -8,4 +8,4 @@ It performs no function, it is just an offline clone of the original site made f
 <img src="./images/Demo.png">
 
 ## view Live
-<a href="">CLICK ME<a>
+<a href="https://yaseen-naik.github.io/Netflix-Clone/">CLICK ME<a>
